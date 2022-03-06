@@ -1,0 +1,23 @@
+{
+  "name": "psychnotes",
+  "version": "1.0.0",
+  "description": "---\r home: true\r heroImage: images/hero.png\r heroText: Psychology stuff\r tagline: Click on the button below to go to where we're currently at in class\r actionText: Go To Current Topic →\r actionLink: /guide/\r features:\r - title: Search\r   details: Click on the search icon in the top right corner to search anything anywhere on this site.\r - title: Prof.\r   details: Ms. Shivani J.\r - title: Maintained By\r   details: Paras Deshpande (paras@styxo.codes)\r   link: https://styxo.codes\r ---",
+  "main": "index.js",
+  "scripts": {
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheStyxo/Psychology.git"
+  },
+  "author": "Styxo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheStyxo/Psychology/issues"
+  },
+  "homepage": "https://github.com/TheStyxo/Psychology#readme",
+  "dependencies": {
+    "vuepress": "^1.9.7",
+    "vuepress-theme-yuu": "^3.1.1"
+  }
+}
