@@ -1,7 +1,13 @@
 ## Intelligence and Ability
+Still working on this
 
 ### Meaning of Intelligence
-Some placeholder text coz I don't have the content yet :D
+
+> According to Binet (1905), "Intelligence refers to comprehension, intention, direction and criticism."
+
+> According to Thurstone (1930), intelligence consists of many primary attributes. Some have also defined intelligence as "flexiblity or versatility in the use of [symbolic processes](/topics/misc/#symbolic-process)."
+
+> David Wechsler defines intelligence as the aggregate or global capacity of the individual to act purposefully, to think rationally and to deal effectively with the enviornment.
 
 ### Theories
 Some placeholder text coz I don't have the content yet :D
@@ -34,7 +40,7 @@ Some placeholder text coz I don't have the content yet :D
 Some placeholder text coz I don't have the content yet :D
 
 ### Intelligence Tests
-Some placeholder text coz I don't have the content yet :D
+[YouTube - History of intelligence tests](https://www.youtube.com/watch?v=W2bKaw2AJxs)
 
 #### Individual Tests
 Some placeholder text coz I don't have the content yet :D

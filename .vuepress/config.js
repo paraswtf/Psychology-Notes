@@ -31,7 +31,8 @@ module.exports = {
                     '/topics/ch5/',
                     '/topics/ch6/',
                     '/topics/ch7/',
-                    '/topics/ch8/'
+                    '/topics/ch8/',
+                    '/topics/misc/',
                 ]
             }
         ]
