@@ -12,28 +12,28 @@ Still working on this
 ### Theories
 Some placeholder text coz I don't have the content yet :D
 
-#### Two Factor Theory - Charles Spearman
+- #### Two Factor Theory - Charles Spearman
 Some placeholder text coz I don't have the content yet :D
 
-#### Primary Mental Abilities - Thurstone
+- #### Primary Mental Abilities - Thurstone
 Some placeholder text coz I don't have the content yet :D
 
-#### Fluid and Crystallised Intelligence - Raymond Cattell
+- #### Fluid and Crystallised Intelligence - Raymond Cattell
 Some placeholder text coz I don't have the content yet :D
 
-#### Guillford's Structure of Intellect Model
+- #### Guillford's Structure of Intellect Model
 Some placeholder text coz I don't have the content yet :D
 
 ### Modern Theories
 Some placeholder text coz I don't have the content yet :D
 
-#### Information Processing Theory
+- #### Information Processing Theory
 Some placeholder text coz I don't have the content yet :D
 
-#### Triarchic Theory - Sternberg
+- #### Triarchic Theory - Sternberg
 Some placeholder text coz I don't have the content yet :D
 
-#### Theory of Multiple Intelligence - Howard Gardner
+- #### Theory of Multiple Intelligence - Howard Gardner
 Some placeholder text coz I don't have the content yet :D
 
 ### How intelligence is measured - the concept of IQ
@@ -45,22 +45,22 @@ Some placeholder text coz I don't have the content yet :D
 #### Individual Tests
 Some placeholder text coz I don't have the content yet :D
 
-##### Stanford-Binet Intelligence Scale
+- ##### Stanford-Binet Intelligence Scale
 Some placeholder text coz I don't have the content yet :D
 
-##### Wechsler Individual Achievement Test
+- ##### Wechsler Individual Achievement Test
 Some placeholder text coz I don't have the content yet :D
 
 #### Group Tests
 Some placeholder text coz I don't have the content yet :D
 
-##### Raven's Progressive Matrices
+- ##### Raven's Progressive Matrices
 Some placeholder text coz I don't have the content yet :D
 
 #### Culture Fair Tests
 Some placeholder text coz I don't have the content yet :D
 
-##### Cattell's Culture Fair Test
+- ##### Cattell's Culture Fair Test
 Some placeholder text coz I don't have the content yet :D
 
 ### Levels of intelligence and associated characteristics (from gifted through average to below average)
