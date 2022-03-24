@@ -15,7 +15,7 @@ The systematic attempt to measure intelligence started with the work of  **Alfre
 
 Accurate assessment of intelligence is possible only with the help of well developed and standardised intelligence tests.
 
-Since intelligence consists of many different abilities, different intelligence tests are constructed with the purpose of measuring specific set of abilities.
+Since intelligence consists of many different abilities, different intelligence tests are constructed with the purpose of measuring a specific set of abilities.
 
 ### Theories
 Some placeholder text coz I don't have the content yet :D
