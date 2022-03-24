@@ -1,13 +1,21 @@
 ## Intelligence and Ability
-Still working on this
 
 ### Meaning of Intelligence
 
 > According to Binet (1905), "Intelligence refers to comprehension, intention, direction and criticism."
 
+> According to Stern , "Intelligence is a general mental adaptablity to new problems and conditions."
+
 > According to Thurstone (1930), intelligence consists of many primary attributes. Some have also defined intelligence as "flexiblity or versatility in the use of [symbolic processes](/topics/misc/#symbolic-process)."
 
 > David Wechsler defines intelligence as the aggregate or global capacity of the individual to act purposefully, to think rationally and to deal effectively with the enviornment.
+
+### Measurement of Intelligence
+The systematic attempt to measure intelligence started with the work of  **Alfred Binet in 1904**. 
+
+Accurate assessment of intelligence is possible only with the help of well developed and standardised intelligence tests.
+
+Since intelligence consists of many different abilities, different intelligence tests are constructed with the purpose of measuring specific set of abilities.
 
 ### Theories
 Some placeholder text coz I don't have the content yet :D
